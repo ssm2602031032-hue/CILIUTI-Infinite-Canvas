@@ -1,0 +1,1 @@
+import assert from 'node:assert/strict';import {sceneLabel,slug,parseEps} from './staging/staging-core.mjs';assert.equal(sceneLabel({ep:2,scene:3},'en'),'E2 scene 3');assert.equal(slug('Sea / Wind'),'Sea-Wind');assert.ok(parseEps('1-2').has(2));console.log('staging: OK');

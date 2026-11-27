@@ -1,0 +1,22 @@
+{
+  "repository": "https://github.com/eternityspring/shuohao-skills",
+  "commit": "5612d2a0bd5f19d978c3ee19d1e42840335e3b4b",
+  "license": "Apache-2.0",
+  "source": {
+    "path": "integrations/community/shuohao-skills/skills/novel-staging/scripts/novel-staging.mjs",
+    "sha256": "9b3214510b438bc13535e9a42a5b7a41e7cd90f4ea6b27201b234c7eee46b2e3",
+    "bytes": 70992
+  },
+  "extraction": {
+    "start": "export function slug(name)",
+    "endExclusive": "render — markdown section",
+    "sha256": "10492e877d80ef34a85060f733c30a200e0c7eec08f81a2569fd3815842a0167",
+    "algorithmsModified": false
+  },
+  "output": {
+    "path": "frontend/src/features/director-workbench/staging-core.js",
+    "sha256": "d81e046560dd08834bf5b4608aea8cbf21d1372639d78b5515b711dfb43060ca",
+    "bytes": 26708
+  },
+  "scope": "Local deterministic floor-plan geometry, staging sentences, script-derived skeletons and eight structural quality checks. No model, network, filesystem, dynamic evaluation, or generated-visual quality certification."
+}

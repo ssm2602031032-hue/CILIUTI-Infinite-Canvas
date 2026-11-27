@@ -1,0 +1,1 @@
+The browser graph editor is a newly authored community implementation. The native project’s staging-core is sourced from shuohao-skills; see [upstream notice](staging/NOTICE), [provenance](staging/provenance.json) and [its license](staging/LICENSE). The original DramaClaw / SuperTale CE main application is not included or relicensed.
